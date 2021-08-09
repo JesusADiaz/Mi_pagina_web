@@ -1,0 +1,51 @@
+<?php
+//abro la conexion
+
+include("base.php");
+
+if (isset($_POST['enviar'])) {
+    if (strlen($_POST['nombres']) >= 1 &&
+        strlen($_POST['apellidos']) >= 1 &&
+        strlen($_POST['tamaño']) >= 1 &&
+        strlen($_POST['forma']) >= 1 &&
+        strlen($_POST['sabor']) >= 1 &&
+        strlen($_POST['relleno']) >= 1 &&
+        strlen($_POST['cobertura']) >= 1 &&
+        strlen($_POST['decoración']) >= 1 &&
+        strlen($_POST['descripción']) >= 1 &&
+        strlen($_POST['fecha_de_entrega']) >= 1 &&
+        strlen($_POST['gmail']) >= 1 &&
+        strlen($_POST['telefono']) >= 1 )
+
+    {
+	    $nombres = trim($_POST['nombres']);
+	    $apellidos = trim($_POST['apellidos']);
+	    $tamaño = trim($_POST['tamaño']);
+	    $forma = trim($_POST['forma']);
+	    $sabor = trim($_POST['sabor']);
+	    $relleno = trim($_POST['relleno']);
+	    $cobertura = trim($_POST['cobertura']);
+	    $decoración = trim($_POST['decoración']);
+	    $descripción = trim($_POST['descripción']);
+	    $fecha_de_entrega = trim($_POST['fecha_de_entrega']);
+	    $gmail = trim($_POST['gmail']);
+	    $telefono = trim($_POST['telefono']);
+	    $consulta = "INSERT INTO pasteles(nombres, apellidos, tamaño, forma, sabor,  relleno, cobertura, decoración, descripción, fecha_de_entrega, gmail, telefono) 
+
+
+
+
+	    VALUES ('$nombres','$apellidos','$tamaño', '$forma', '$sabor', '$relleno', '$cobertura', '$decoración', '$descripción', '$fecha_de_entrega', '$gmail', '$telefono')";
+	    $resultado = mysqli_query($enlace,$consulta);
+	    if ($resultado) {
+	    	?> 
+	    	<h3 class="ok">¡Gracias por su compra!</h3>
+           <?php
+	    } else {
+	    	?> 
+	    	<h3 class="bad">¡ocurrio un error por favor verifique!</h3>
+           <?php
+	    }
+    }   else {
+	    	?> 
+	    	<h3 class="bad">¡Para realizar su pedido necesitamos que los campos esten completos !</h3>

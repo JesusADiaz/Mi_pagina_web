@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header> 
+</body>  
+<br>
+<br>
+<br>		
+</header>
+	<p>
+		Aqui podras realizar tus pedidos, favor de llenar todos los campos.<br>
+	<p>
+<main>
+	<div class="form">
+		<input type="text" name="nombre" placeholder="introduce tu nombre completo">
+		<br><br>
+		<input type="text" name="telefono" placeholder="Telefono">
+		<br><br>	
+		<h3><select name="Que desea pedir"></h3>
+			<option name="pedidos">
+			    Selecciona la categoria de tu pedido
+			</option>
+			<option name="pasteles">
+			    Pasteles
+			</option>
+			<option name="Flanes y gelatinas">
+			    Flanes y gelatinas
+			</option>
+			<option name="Galletas">
+			    Galletas
+			</option>
+			<option name="Tartas">
+			    Tartas
+			</option>
+		</select>	
+
+<section id="contactos">
+    <table border="1" align="center">
+       <tr><th>
+        <h2> Pasteles</h2>
+		<p> En caso que sea tu pedido pastel selecciona el tamaño </p>
+		<input type="radio" name="Tamaño">Mini<br>
+		<input type="radio" name="Tamaño">Chico<br>
+		<input type="radio" name="Tamaño">Mediano<br>
+		<input type="radio" name="Tamaño">Grande<br><br>
+
+         Especificaciones: En caso de ser pedido especial coloca los kilogramos, los detalles y representacion. <textarea name="caracteristicas"></textarea><br></th>
+       </tr>
+       <tr align="center">
+       <th><h2> Gelatinas o flanes</h2>
+		<p> Selecciona el tamaño</p>
+		<input type="checkbox" name="tamaño">chica<br>
+		<input type="checkbox" name="Tamaño">Mediana<br>
+		<input type="checkbox" name="Tamaño">Grande<br>
+        <p> Cantidad de piezas ya sea individual o normal</p>
+		<input type="checkbox" name="Tamaño">1 a 10 piezas<br>
+		<input type="checkbox" name="Tamaño">10 a 20 piezas<br>
+		<input type="checkbox" name="Tamaño">más de 20<br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p><br></th>
+    </tr>
+        
+    <tr align="center"><td>
+        <h2> Tartas</h2>
+        <p> selecciona el tamaño </p>
+		<input type="radio" name="Tamaño">Mini<br>
+		<input type="radio" name="Tamaño">Chico<br>
+		<input type="radio" name="Tamaño">Mediano<br>
+		<input type="radio" name="Tamaño">Grande<br><br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p><br></td>
+    </tr>
+        
+    <tr align="center">
+    	<td>
+        <h2> Galletas</h2>
+         <p> Cantidad de piezas</p>
+		<input type="checkbox" name="Tamaño">1 a 10 piezas<br>
+		<input type="checkbox" name="Tamaño">10 a 20 piezas<br>
+		<input type="checkbox" name="Tamaño">más de 20<br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p></td>
+    </tr>    	
+    <tr align="center">
+    	<td>
+
+	     <ul class="horizontal">
+         <form action="">
+         <input type="submit" value="Enviar">
+         </form></ul class="horizontal"> 
+        </td>
+    </tr>         
+	</div>
+</section>		
+</main>
+</html>

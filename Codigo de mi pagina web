@@ -1,0 +1,1378 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+<link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+</head>
+<body>
+</body>
+<header class="encabezado">	
+	 <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header>   
+<br>
+<br>     
+<main>
+<nav>
+  <div class="slider">  
+     <ul>
+        <li><img src="10.jpg" style="width: 205px; height:205px;"</li>
+        <li><img src="11.jpg" style="width: 205px; height:205px;"</li>
+        <li><img src="12.jpg"  style="width: 205px; height:205px;"</li>
+        <li><img src="13.jpg"  style="width: 205px; height:205px;"</li>
+        <li><img src="14.jpg"  style="width: 205px; height:205px;"</li>
+        <li><img src="15.jpg"  style="width: 205px; height:205px;"</li>
+     </ul> 
+  </div> 
+</nav> 
+
+</main>
+<br><br><br>
+    <p>
+    Somos una empresa dedicada a la producción de pasteles, contamos con una gran variendad y sobre todo con excelente calidad y servicio.<br>
+        Nuestro proposito es brindarles los mejores productos y sastisfacer su paladar con nuestras delicias.
+  </p>
+<br><br><br><br><br><br><br><br><br>
+<footer class="footer">
+    <div class="containerr">
+      <div class="row">
+         <div class="footer-col">
+            <h4>company</h4>
+            <ul>
+               <li><a href="#">about us</a></li>
+               <li><a href="#">our services</a></li>
+               <li><a href="#">privacy policy</a></li>
+               <li><a href="#">affiliate program</a></li>
+            </ul>
+         </div>
+         <div class="footer-col">
+            <h4>get help</h4>
+            <ul>
+               <li><a href="#">FAQ</a></li>
+               <li><a href="#">shipping</a></li>
+               <li><a href="#">returns</a></li>
+               <li><a href="#">order status</a></li>
+               <li><a href="#">payment options</a></li>
+            </ul>
+         </div>
+         <div class="footer-col">
+            <h4>online shop</h4>
+            <ul>
+               <li><a href="#">watch</a></li>
+               <li><a href="#">bag</a></li>
+               <li><a href="#">shoes</a></li>
+               <li><a href="#">dress</a></li>
+            </ul>
+         </div>
+         <div class="footer-col">
+            <h4>follow us</h4>
+            <div class="social-links">
+               <a href="#"><i class="fab fa-facebook-f"></i></a>
+               <a href="#"><i class="fab fa-twitter"></i></a>
+               <a href="#"><i class="fab fa-instagram"></i></a>
+               <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+         </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
+</html>
+
+<footer class="footer">
+  <div class="container">
+  <div class="row">
+  <div class="footer-col">
+  <h4>compañia</h4>
+  <ul>
+  <li><a href="#">Empresa dedicada a la producción de pasteles y sus derivados, con la mejor calidad , higiene y producción</a></li>
+  </ul>
+  </div>
+  <div class="footer-col">
+  <h4>Ubicación</h4>
+  <ul>
+  <li><a href="#">Santa María el chico, calle Rufino C.P 43540</a></li>
+  </ul>
+  </div>
+  
+  <div class="footer-col">
+  <h4>follow us</h4>
+  <div class="social-links">
+  <a href="#"><i class="fab fa-facebook-f"></i></a>
+  <a href="#"><i class="fab fa-twitter"></i></a>
+  <a href="#"><i class="fab fa-instagram"></i></a>
+  <a href="#"><i class="fab fa-linkedin-in"></i></a>
+  </div>
+  </div>
+  </div>
+  </footer>
+
+</body>
+</html>
+
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header> 
+</body>  
+<br>
+<br>  
+<br>
+<p> 
+	Les ofrecemos una gran varidad de sabores, tamaños y diseños.</p>
+<header>	
+<p class="subtitulo">Boda</p>
+<div class="container">
+  <div class="item">
+    <img src="p5.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla</h3>
+      <p>relleno de fresa y frutos rojos<br></p>
+      <h4>Precio: $1400</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="p6.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla</h3>
+      <p>relleno de crema pastelera y durazno<br></p>
+      <h4>Precio: $1400</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="p7.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de capuchino</h3>
+      <p>relleno de nuez y durazno<br></p>
+      <h4>Precio: $1300</h4>
+    </div>
+  </div>    
+</div> 
+<p class="subtitulo">Bautizo</p>
+<div class="container">
+  <div class="item">
+    <img src="b3.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla y fresa</h3>
+      <p>relleno de fresas y nuez<br></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="b4.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla</h3>
+      <p>relleno de fresas y crema pastelera<br></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="b5.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de chocolate</h3>
+      <p>relleno sabor capuchinobr></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>    
+</div> 
+
+
+<p class="subtitulo">XV años</p>
+<div class="container">
+  <div class="item">
+    <img src="xv.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de fresa y vainilla</h3>
+      <p>relleno de fresa y durazno<br></p>
+      <h4>Precio: $1500</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="xv1.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla, chocolate y fresa</h3>
+      <p>relleno de durazno y nuez<br></p>
+      <h4>Precio: $1700</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="xv2.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de tres leches</h3>
+      <p>relleno de durazno y nuez<br></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>    
+</div> 
+
+<p class="subtitulo">Pasteles de cumpleaños</p>
+<div class="container">
+  <div class="item">
+    <img src="p1.jpeg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla</h3>
+      <p>relleno de fresa y frutos rojos<br></p>
+      <h4>Precio: $300</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="p4.jpeg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de capuchino</h3>
+      <p>relleno de mermelada fresa, decorado con wiki, durazno uvas y fresas <br></p>
+      <h4>Precio: $320</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="p3.jpeg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de tres leches</h3>
+      <p>relleno de durazno y nuez <br></p>
+      <h4>Precio: $280</h4>
+    </div>
+  </div>    
+</div> 
+
+<p class="subtitulo">Pasteles de Graduacion</p>
+<div class="container">
+  <div class="item">
+    <img src="gra1.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de tres leches</h3>
+      <p>relleno de durazno y fresas <br></p>
+      <h4>Precio: $320</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="gra3.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de moka</h3>
+      <p>relleno de durazno y crema pastelera <br></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="gra2.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de tres leches con moka</h3>
+      <p>relleno de durazno<br></p>
+      <h4>Precio: $400</h4>
+    </div>
+  </div>    
+</div> 
+
+
+ <p class="subtitulo">Pasteles de comunión y confirmación</p>
+<div class="container">
+  <div class="item">
+    <img src="c1.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de tres leches</h3>
+      <p>relleno de mermelada de frutos secos<br></p>
+      <h4>Precio: $280</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="c22.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Panques formando un pastel, contiene 70 panques</h3>
+      <p>variedad de rellenos<br></p>
+      <h4>Precio: $500</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="c3.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel envinado</h3>
+      <p>relleno de chocolate<br></p>
+      <h4>Precio: $700</h4>
+    </div>
+  </div>    
+</div> 
+
+ <p class="subtitulo">Baby Shower</p>
+<div class="container">
+  <div class="item">
+    <img src="dm3.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de vainilla</h3>
+      <p>relleno frutos secos<br></p>
+      <h4>Precio: $410</h4>
+    </div>
+  </div>
+
+  <div class="item">
+    <img src="dm1.jpg"  style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de fresa</h3>
+      <p>relleno de crema pastelera y fresas<br></p>
+      <h4>Precio: $400</h4>
+    </div>
+  </div>
+  <div class="item">
+    <img src="dm7.jpg" style="width: 300px; height:250px; class="item-img">
+    <div class="item-text">
+      <h3>Pastel de chocolate</h3>
+      <p>elleno de capuchino y nuez<br></p>
+      <h4>Precio: $210</h4>
+    </div>
+  </div>    
+</div> 
+
+
+
+</header>
+</html>
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+</body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header>   
+<br>
+<br>  
+<br>
+<br>
+<p> Conoce nuestras  gelatinas, tenemos de diversos tamaños y las puedes adquirir ya sea en su tamaño por pieza o de un tamaño grande.</p>
+<header>
+  <div class="container">
+
+     <div class="item">
+      <img src="gf20.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor fresa<br> <h4> Precio:$3</h4></p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="gf18.png" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor nuez  <br>  <h4>Precio:$280 </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="gf8.png"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor nuez y uva<br> <h4> Precio:$280</h4> </p>
+      </div>
+    </div>
+  
+    <div class="item">
+      <img src="gf23.png"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> sabor crema pastelera y vainilla <br> <h4> Precio:$499</h4></p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="gf24.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> gelatina sabor vainilla y fresa <br><h4> Precio:$280 </h4></p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="gf12.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+     <p align="center"> sabor naranja, limon, y aniz <br> <h4> Precio:$130</h4> </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="gf13.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> sabormandarina,galleta y manzana <br> <h4>precio:$120</h4></p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="fg1.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> sabor frutas de leche y agua<br> <h4> Precio:$150</h4></p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="gf5.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center">sabor fresa <br><h4>  Precio:$300 </h4></p>
+      </div>
+    </div>
+ 
+
+
+    <div class="item">
+      <img src="gf14.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center"> sabor. fresa,limon y aniz<br> <h4>  Precio:$250</h4>    </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="gf15.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor mexicano <br><h4> precio:$130</h4>  </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="gf16.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center"> ssabor vainilla con dinamica del padre <br> <h4> Precio:$130</h4></p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="gf17.png"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> saboraniz de leche y agua con dinamica de bebida  <br> <h4>precio:$260 </h4> </p>
+      </div>
+    </div>
+      <div class="item">
+      <img src="fg2.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> sabor uva de leche y agua <br><h4> Precio:$100</h4> </p>
+      </div>
+    </div>
+
+    
+    <div class="item">
+      <img src="gf11.jpg" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor fresa,limon y vainilla <br><h4> precio:$110</h4> </p>
+      </div>
+    </div>
+
+
+
+    <div class="item">
+      <img src="gf6.png"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sabor vainilla dinamica de graduación<br><h4> precio:$420</h4> </p>
+      </div>
+    </div>
+  </div> 
+</header>
+</html>
+
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+</body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header>   
+<br>
+<br>  
+<br>
+<br>
+
+
+<header>
+
+	     <div class="container">
+    <div class="item">
+      <img src="117.png"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center">  Tarta de galleta oreo y cremino <br><h4>Precio:$150</h4> </p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="119.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta mix(4 sabores diferentes puede personalizarla a su gusto)<br><h4> Precio:$250 </h4></p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="121.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta mix(4 sabores diferentes puede personalizarla a su gusto)<br><h4> Precio:$250 </h4> </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="tt7.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Tarta de frutas<br><h4> Precio:$170</h4> </p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="t10.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Tarta de manzana<br><h4>Precio:$150 </h4></p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="tt11.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center">Tarta de coco con leche condensada <br><h4>Precio:$130 </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="tt12.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta de manzana con nuez<br><h4> Precio:$150</h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="tt13.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center"> Tarta de aniz con nuez<br><h4>Precio:$150 </h4>    </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="tt14.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta de durazno <br> <h4>Precio:$130 </h4>   </p>
+      </div>
+    </div>
+
+
+
+
+
+    <div class="item">
+      <img src="tt2.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center">Tarta de manzana<br><h4> Precio:$120</h4>  </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="tt6.jpg" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Tarta de chocolate con nuez <br><h4>Precio:$130 </h4> </p>
+      </div>
+    </div>
+
+
+
+
+    
+    <div class="item">
+      <img src="t1.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center" >Tarta de fresa con crema pastelera<br> <h4>Precio:$150</h4></p>
+      </div>
+    </div>
+    
+
+
+
+  
+    <div class="item">
+      <img src="tt8.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center" >Tarta de frutas con crema pastelera sabor vainilla<br> <h4>Precio:$190</h4></p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="tt9.jpg" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta de fresa<br> <h4>Precio:$130  </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="107.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center">Tarta de yogurt sabor natural<br> relleno fresas y duraznos<br><h4> Precio:$130 </h4></p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="115.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta de vainilla con durazno<br> <h4>Precio:$150 </h4> </p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="116.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta de frutos rojos con oreo <br><h4> Precio:$5160 </h4></p>
+      </div>
+    </div>
+
+
+
+    <div class="item">
+      <img src="125.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta salada, rrellena de jamon, cebolla y queso <br><h4> Precio:$280 </h4> </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="124.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta salada, rrellena de calabacin, queso y beicon <br> <h4>Precio:$280</h4>  </p>
+      </div>
+    </div>
+
+        <div class="item">
+      <img src="123.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center">Tarta salada, rrellena de tomate y ricota <br><h4> Precio:$280 </h4> </p>
+      </div>
+    </div>
+
+
+  </p>
+  </div>  
+</header>
+</html>
+
+
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+</body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header>   
+<br>
+<br>  
+<br>
+<header>
+<div class="container">
+      <div class="item">
+      <img src="131.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center"> Galleta de vainilla con puntos de colores <br>  <h4>Precio:$2</h4></p>
+      </div>
+    </div>
+
+
+    <div class="item">
+      <img src="132.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> sGalletas de avena y choco cripis  <br><h4> precio:$1.50</h4>  </p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="135.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de vainilla con chocolate cubierto<br><h4>  Precio:$1</h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="134.jpg"   style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de vainilla decoradas navideñas<br><h4> precio:$1</h4> </p>
+      </div>
+    </div>
+    <div class="item">
+      <img src="g1.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Galletas de figuras  <br><h4> Precio individual:$2</h4> </p>
+      </div>
+    </div>
+    
+
+    <div class="item">
+      <img src="g11.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Galletas de mantequilla y aniz<br><h4>  Precio:$2.50</h4></p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="g2.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center">Galletas de vainilla, mantequilla y chocolate  <br> <h4> Precio:$3.50 </h4></p>
+      </div>
+    </div>
+ 
+    <div class="item">
+      <img src="g3.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Galleta de choco crispis <br><h4> Precio:$2 </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="g4.jpg" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de avena <br> <h4> Precio:$4</h4> </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="g5.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de mantequilla con chocolate <br><h4>  Precio:$4</h4> </p>
+      </div>
+    </div>
+  
+    <div class="item">
+      <img src="g6.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Galletas de avena con chocolate <br><h4>  Precio:$3</h4></p>
+      </div>
+    </div>
+    
+    <div class="item">
+      <img src="g8.jpg" style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de fresa polvoreadas<br><h4> precio:$3 </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="g10.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+     <p align="center"> Galletas sabor mantequilla <br> <h4> Precio:$2 </h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="108.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+        <p align="center"> Galletas de aniz <br> <h4>precio:$5</h4></p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="15.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+      <p align="center"> Galletas de vainilla, con forma a la de la imagen <br>   <h4>Precio:$5   </h4> </p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="130.jpg"  style="width: 230px; height:190px;">
+      <div class="item-text">
+       <p align="center"> Galletas de chocolate <br> <h4> precio:$3 </h4>  </p>
+      </div>
+    </div>
+
+
+  </div>   
+</header>
+</html>
+
+
+<?php
+//abro la conexion
+
+include("base.php");
+
+if (isset($_POST['enviar'])) {
+    if (strlen($_POST['nombres']) >= 1 &&
+        strlen($_POST['apellidos']) >= 1 &&
+        strlen($_POST['tamaño']) >= 1 &&
+        strlen($_POST['forma']) >= 1 &&
+        strlen($_POST['sabor']) >= 1 &&
+        strlen($_POST['relleno']) >= 1 &&
+        strlen($_POST['cobertura']) >= 1 &&
+        strlen($_POST['decoración']) >= 1 &&
+        strlen($_POST['descripción']) >= 1 &&
+        strlen($_POST['fecha_de_entrega']) >= 1 &&
+        strlen($_POST['gmail']) >= 1 &&
+        strlen($_POST['telefono']) >= 1 )
+
+    {
+	    $nombres = trim($_POST['nombres']);
+	    $apellidos = trim($_POST['apellidos']);
+	    $tamaño = trim($_POST['tamaño']);
+	    $forma = trim($_POST['forma']);
+	    $sabor = trim($_POST['sabor']);
+	    $relleno = trim($_POST['relleno']);
+	    $cobertura = trim($_POST['cobertura']);
+	    $decoración = trim($_POST['decoración']);
+	    $descripción = trim($_POST['descripción']);
+	    $fecha_de_entrega = trim($_POST['fecha_de_entrega']);
+	    $gmail = trim($_POST['gmail']);
+	    $telefono = trim($_POST['telefono']);
+	    $consulta = "INSERT INTO pasteles(nombres, apellidos, tamaño, forma, sabor,  relleno, cobertura, decoración, descripción, fecha_de_entrega, gmail, telefono) 
+
+
+
+
+	    VALUES ('$nombres','$apellidos','$tamaño', '$forma', '$sabor', '$relleno', '$cobertura', '$decoración', '$descripción', '$fecha_de_entrega', '$gmail', '$telefono')";
+	    $resultado = mysqli_query($enlace,$consulta);
+	    if ($resultado) {
+	    	?> 
+	    	<h3 class="ok">¡Gracias por su compra!</h3>
+           <?php
+	    } else {
+	    	?> 
+	    	<h3 class="bad">¡ocurrio un error por favor verifique!</h3>
+           <?php
+	    }
+    }   else {
+	    	?> 
+	    	<h3 class="bad">¡Para realizar su pedido necesitamos que los campos esten completos !</h3>
+        
+        
+        <!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+   <title>Pasteleria Dulce Luna</title><!--El<html>es la raiz de la página html.¡-->
+   <meta name="description" content="pasteleria">
+   <link  rel="icon"   href="logo2.jpg" type="image/jpg" />
+   <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<header class="encabezado"> 
+   <nav>
+      <div><img src="logooo.jpg"></div>
+      <ul> 
+          <li><a href="inicio.html"> Inicio </a></li>
+          <li><a href="pastel.html"> Pasteles </a></li>
+          <li><a href="tarta.html"> Tartas </a></li>
+          <li><a href="gelatina.html"> Gelatinas </a></li>
+          <li><a href="galleta.html"> Galletas </a></li>
+          <li><a href="formulariogalletas.html"> Pedidos </a></li>
+          <li><a href="contactanos.html"> contactos </a></li>
+      </ul> 
+   </nav>
+</header> 
+</body>  
+<br>
+<br>
+<br>		
+</header>
+	<p>
+		Aqui podras realizar tus pedidos, favor de llenar todos los campos.<br>
+	<p>
+<main>
+	<div class="form">
+		<input type="text" name="nombre" placeholder="introduce tu nombre completo">
+		<br><br>
+		<input type="text" name="telefono" placeholder="Telefono">
+		<br><br>	
+		<h3><select name="Que desea pedir"></h3>
+			<option name="pedidos">
+			    Selecciona la categoria de tu pedido
+			</option>
+			<option name="pasteles">
+			    Pasteles
+			</option>
+			<option name="Flanes y gelatinas">
+			    Flanes y gelatinas
+			</option>
+			<option name="Galletas">
+			    Galletas
+			</option>
+			<option name="Tartas">
+			    Tartas
+			</option>
+		</select>	
+
+<section id="contactos">
+    <table border="1" align="center">
+       <tr><th>
+        <h2> Pasteles</h2>
+		<p> En caso que sea tu pedido pastel selecciona el tamaño </p>
+		<input type="radio" name="Tamaño">Mini<br>
+		<input type="radio" name="Tamaño">Chico<br>
+		<input type="radio" name="Tamaño">Mediano<br>
+		<input type="radio" name="Tamaño">Grande<br><br>
+
+         Especificaciones: En caso de ser pedido especial coloca los kilogramos, los detalles y representacion. <textarea name="caracteristicas"></textarea><br></th>
+       </tr>
+       <tr align="center">
+       <th><h2> Gelatinas o flanes</h2>
+		<p> Selecciona el tamaño</p>
+		<input type="checkbox" name="tamaño">chica<br>
+		<input type="checkbox" name="Tamaño">Mediana<br>
+		<input type="checkbox" name="Tamaño">Grande<br>
+        <p> Cantidad de piezas ya sea individual o normal</p>
+		<input type="checkbox" name="Tamaño">1 a 10 piezas<br>
+		<input type="checkbox" name="Tamaño">10 a 20 piezas<br>
+		<input type="checkbox" name="Tamaño">más de 20<br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p><br></th>
+    </tr>
+        
+    <tr align="center"><td>
+        <h2> Tartas</h2>
+        <p> selecciona el tamaño </p>
+		<input type="radio" name="Tamaño">Mini<br>
+		<input type="radio" name="Tamaño">Chico<br>
+		<input type="radio" name="Tamaño">Mediano<br>
+		<input type="radio" name="Tamaño">Grande<br><br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p><br></td>
+    </tr>
+        
+    <tr align="center">
+    	<td>
+        <h2> Galletas</h2>
+         <p> Cantidad de piezas</p>
+		<input type="checkbox" name="Tamaño">1 a 10 piezas<br>
+		<input type="checkbox" name="Tamaño">10 a 20 piezas<br>
+		<input type="checkbox" name="Tamaño">más de 20<br>
+        <p> caracteristicas especificas: <textarea name="caracteristicas"></textarea></p></td>
+    </tr>    	
+    <tr align="center">
+    	<td>
+
+	     <ul class="horizontal">
+         <form action="">
+         <input type="submit" value="Enviar">
+         </form></ul class="horizontal"> 
+        </td>
+    </tr>         
+	</div>
+</section>		
+</main>
+</html>
+  
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+   <meta charset="utf-8">
+
+        <h1> Formulario de pedidos para pasteles1</h1>
+		<form action="pasteles1.php"  method="POST">
+	     <input type="text" name="nombres"  placeholder="nombres"><br><br>
+		<input type="text" name="apellidos" placeholder="apellidos">
+		<br><br>
+        <input type="text" name="tamaño" placeholder="tamaño"><br><br>
+        <input type="text" name="forma" placeholder="forma"><br><br>
+        <input type="text" name="sabor" placeholder="sabor"><br><br>
+        <input type="text" name="relleno" placeholder="relleno"><br><br>
+        <input type="text" name="cobertura" placeholder="cobertura"><br><br>
+		
+		<input type="text" name="decoración" placeholder="decoración"> <br><br>
+
+        <input type="text" name="descripción" placeholder="descripción">
+	    <br><br>
+
+        <input type="text" name="fecha_de_entrega" placeholder="fecha_de_entrega">
+        <br><br>
+        <input type="text" name="gmail" placeholder="gmail">
+        <br><br>
+        <input type="text" name="telefono" placeholder="telefono">
+        <br><br>
+                <input type="submit" name="enviar">
+        </form>
+        </form>
+
+        <?php
+        include("pasteles1.php");
+        ?>
+
+</main>
+</html>
+
+
+h1 {
+     color: (255,0,0);
+     background:Cornsilk;
+     font-family: courier new;
+     font-size: 14;
+     text-align: center;
+}
+h2 {
+     background: #EECFBB;
+     font-size: 5;
+     text-align: center;
+}
+h3 {
+     font-size: 5;
+     text-align: center;
+     color: black;
+     font-weight: 600;
+}
+
+h4 {
+     font-size: 5;
+     text-align: center;
+     color: red;
+
+}
+header{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background: rgb(250,250,250);
+}
+section{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background:#EECFBB;
+}
+p {
+	 font-family: arial;
+	 font-size: 12;
+	 text-align: center;
+}
+main{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background: rgb(250,250,250);
+}
+/*Datos generales de mi menu */
+*{
+	margin: 0;
+	padding: 0;
+}
+.encabezado{
+	background: #EECFBB;
+}
+img{
+	width: 150px;
+	border-radius: 10%;
+}
+.encabezado nav{
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 15px;
+
+}
+.encabezado nav ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: brown;
+	padding: 12px 20px;
+	display: block;
+}
+a:hover{
+	background: #A96360;
+
+}
+.encabezado nav ul li ul{
+	display:flex;
+	flex-direction: column;
+}
+.encabezado nav ul li ul{
+	position: absolute;
+	background: #008A93;
+}
+.encabezado nav ul li ul{
+	display: none;
+}
+
+.encabezado nav ul li: hover > ul{
+	display: block;
+}
+
+
+
+
+
+
+
+/*Aqui trabajare con el carrusel*/
+.slider {
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.slider ul{
+	display:flex;
+	padding: 0;
+	width: 100%;
+	animation: cambio 20s infinite alternate;
+	animation-timing-function: ease-in;
+}
+
+.slider li{
+	width: 100%;
+	list-style: none;
+
+}
+
+.slider img{
+	width: 100%;
+}
+
+@keyframes cambio{
+  0%{margin-left: 0;}
+  20%{margin-left: 0;}
+  25%{margin-left: -100%;}
+  45%{margin-left: -100%;}
+  50%{margin-left: -200%;}
+  70%{margin-left: -200%;}
+  75%{margin-left: -300%;}
+  100%{margin-left: -300%;}
+
+}
+
+.subtitulo {
+    margin: auto;
+    color: black;
+    display: inline;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+/*galeria*/
+
+*{
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+
+
+
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 30px;
+	text-align: center;
+}
+.item{
+	background-color: #fff;
+	cursor: pointer;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,.095)
+    background-color: black;
+
+}
+.item-text{
+	padding: 1em;
+
+}
+.item-img{
+	max-width: 100%;
+	display: block;
+
+}
+@media screen and (min-width: 590px)
+{
+	.container{
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media screen and (min-width: 960px)
+{
+	.container{
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
+
+
+/footer/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.containerr{
+	max-width: 2170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 70px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #bbbbbb;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+
+/responsive/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+
+
+<?php
+//abro la conexion
+
+$enlace = mysqli_connect("localhost","proyecto","12345","pateleria");
+
+
+?>
+        
+        

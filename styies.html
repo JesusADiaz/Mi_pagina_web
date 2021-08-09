@@ -1,0 +1,295 @@
+
+h1 {
+     color: (255,0,0);
+     background:Cornsilk;
+     font-family: courier new;
+     font-size: 14;
+     text-align: center;
+}
+h2 {
+     background: #EECFBB;
+     font-size: 5;
+     text-align: center;
+}
+h3 {
+     font-size: 5;
+     text-align: center;
+     color: black;
+     font-weight: 600;
+}
+
+h4 {
+     font-size: 5;
+     text-align: center;
+     color: red;
+
+}
+header{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background: rgb(250,250,250);
+}
+section{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background:#EECFBB;
+}
+p {
+	 font-family: arial;
+	 font-size: 12;
+	 text-align: center;
+}
+main{
+	border: 1px solid blank
+	with:800px;
+	margin: auto;
+	background: rgb(250,250,250);
+}
+/*Datos generales de mi menu */
+*{
+	margin: 0;
+	padding: 0;
+}
+.encabezado{
+	background: #EECFBB;
+}
+img{
+	width: 150px;
+	border-radius: 10%;
+}
+.encabezado nav{
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 15px;
+
+}
+.encabezado nav ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: brown;
+	padding: 12px 20px;
+	display: block;
+}
+a:hover{
+	background: #A96360;
+
+}
+.encabezado nav ul li ul{
+	display:flex;
+	flex-direction: column;
+}
+.encabezado nav ul li ul{
+	position: absolute;
+	background: #008A93;
+}
+.encabezado nav ul li ul{
+	display: none;
+}
+
+.encabezado nav ul li: hover > ul{
+	display: block;
+}
+
+
+
+
+
+
+
+/*Aqui trabajare con el carrusel*/
+.slider {
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.slider ul{
+	display:flex;
+	padding: 0;
+	width: 100%;
+	animation: cambio 20s infinite alternate;
+	animation-timing-function: ease-in;
+}
+
+.slider li{
+	width: 100%;
+	list-style: none;
+
+}
+
+.slider img{
+	width: 100%;
+}
+
+@keyframes cambio{
+  0%{margin-left: 0;}
+  20%{margin-left: 0;}
+  25%{margin-left: -100%;}
+  45%{margin-left: -100%;}
+  50%{margin-left: -200%;}
+  70%{margin-left: -200%;}
+  75%{margin-left: -300%;}
+  100%{margin-left: -300%;}
+
+}
+
+.subtitulo {
+    margin: auto;
+    color: black;
+    display: inline;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+/*galeria*/
+
+*{
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.container{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+
+
+
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 30px;
+	text-align: center;
+}
+.item{
+	background-color: #fff;
+	cursor: pointer;
+	box-shadow: 0 0 5px 0 rgba(0,0,0,.095)
+    background-color: black;
+
+}
+.item-text{
+	padding: 1em;
+
+}
+.item-img{
+	max-width: 100%;
+	display: block;
+
+}
+@media screen and (min-width: 590px)
+{
+	.container{
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media screen and (min-width: 960px)
+{
+	.container{
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
+
+
+/footer/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.containerr{
+	max-width: 2170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #24262b;
+    padding: 70px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #ffffff;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #e91e63;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: 300;
+	color: #bbbbbb;
+	display: block;
+	transition: all 0.3s ease;
+}
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-left: 8px;
+}
+.footer-col .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: rgba(255,255,255,0.2);
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.footer-col .social-links a:hover{
+	color: #24262b;
+	background-color: #ffffff;
+}
+
+/responsive/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+}
+
+
